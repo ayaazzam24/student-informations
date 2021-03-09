@@ -1,0 +1,48 @@
+body{
+    background-image:url(https://alqudscollege-my.sharepoint.com/personal/advtech_ltuc_com/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fadvtech%5Fltuc%5Fcom%2FDocuments%2FAcademia%2FCourses%2FCode%20Fellows%20Courses%2FEntrance%20Exam%2F301%20Entrance%20Exam%2F201d14%2C201d15%26201d16%2Fbg%2Ejpg&parent=%2Fpersonal%2Fadvtech%5Fltuc%5Fcom%2FDocuments%2FAcademia%2FCourses%2FCode%20Fellows%20Courses%2FEntrance%20Exam%2F301%20Entrance%20Exam%2F201d14%2C201d15%26201d16&originalPath=aHR0cHM6Ly9hbHF1ZHNjb2xsZWdlLW15LnNoYXJlcG9pbnQuY29tLzppOi9nL3BlcnNvbmFsL2FkdnRlY2hfbHR1Y19jb20vRWY1MDVzSXpyTFZGa3AzM3dreW8tMzhCYXQ3eW84X0p4UTU4NUZIU2ZPc09mQT9ydGltZT1uMm9LTC1EaTJFZw);
+    
+}
+
+header{
+    text-align: center;
+    background-color: rgba(96, 96, 96,0.6);
+    font-size: large;
+    color: #eee;
+   
+}
+ul li{
+    display: inline-block;
+
+
+}
+#home{
+    margin-left: 50%;
+}
+#about{
+    margin-left: 10%;
+}
+#contact{
+    margin-right: 10%;
+}
+#form{
+    width: 30%;
+    margin-left: 10%;
+    background-color: rgba(96, 96, 96,0.6);
+}
+
+#tabel{
+   border-collapse: collapse;
+   background-color:rgba(96, 96, 96,0.6);
+   margin-top: 10%;
+   margin: 10%;
+   width: 80%;
+   text-align: center;
+
+}
+table,th,td{
+    border:1px solid black;
+}
+#total{
+    text-align: center;
+    color: black;
+}
